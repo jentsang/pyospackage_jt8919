@@ -12,7 +12,11 @@ pyospackage_jt8919 is a project that (describe what it does here).
 
 ## Get started
 
-You can install this package into your preferred Python environment using pip:
+Install package from TestPyPI:
+
+https://test.pypi.org/project/pyospackage_jt8919/0.1.0/ 
+
+or you can install this package into your preferred Python environment using pip:
 
 ```bash
 $ pip install pyospackage_jt8919
